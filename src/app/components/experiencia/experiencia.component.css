@@ -10,12 +10,14 @@ h1, h3 {
  /*estilo nombre experiencia*/
 #nombreexperiencia {
     font-weight: bolder;
-    color: rgb(228, 59, 29);
+    color: white ;
+    text-align: center;
+    background-color:rgb(228, 59, 29) ;
     }
     /*estilo experiencia laboral*/
 #experiencialaboral {
     font-weight: bolder;
-    color: rgb(228, 59, 29);
-    background-color: white;
+    color: white ;
     text-align: center;
+    background-color:rgb(228, 59, 29) ;
     }

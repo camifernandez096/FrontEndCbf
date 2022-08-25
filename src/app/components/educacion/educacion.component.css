@@ -17,7 +17,7 @@ h1, h3 {
     /*estilo de titulo educacion*/
 #educacion {
     font-weight: bolder;
-    color: black);
-    background-color: white;
+    color: white ;
     text-align: center;
+    background-color:rgb(228, 59, 29) ;
     }

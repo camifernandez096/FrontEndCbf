@@ -4,8 +4,8 @@
     align-items: center;
     position: fixed;
     background-color: #f03c00;
-    position: absolute;
-    }
+    z-index: 1;
+        }
 .redes{
     margin-right: 0.5em;
 }
