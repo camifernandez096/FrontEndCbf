@@ -5,7 +5,11 @@
     position: fixed;
     background-color: #f03c00;
     z-index: 1;
-        }
+}
+.row{
+    margin-left: unset !important;
+    margin-right: unset !important;
+}
 .redes{
     margin-right: 0.5em;
 }

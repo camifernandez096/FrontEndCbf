@@ -10,9 +10,9 @@ div {
   #fotodeperfil {
     position: relative;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px #f1735c;
+   /* box-shadow: 3px 3px 3px #f1735c;*/
     left: 3%;
-    top: 2px;
+    top: 1px;
   }
 }
 @media (max-width: 575px) {
@@ -20,9 +20,9 @@ div {
     position: sticky;
     width: 30%;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px #f1735c;
+   /* box-shadow: 3px 3px 3px #f1735c;*/
     left: 33%;
-    top: 2px;
+    top: 1px;
   }
 }
 
