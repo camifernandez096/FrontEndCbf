@@ -5,3 +5,10 @@ img{
     width: 100%;
     margin-top: 93px;
  }
+
+ /*para la vista de celular*/
+@media (max-width: 575px){
+    img{
+        margin-top: unset;
+    }
+}

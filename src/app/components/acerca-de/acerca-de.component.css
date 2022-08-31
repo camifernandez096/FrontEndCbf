@@ -24,6 +24,10 @@ div {
     left: 33%;
     top: 1px;
   }
+  #nombre {
+    font-weight: bold;
+    margin-top: 45px;
+  }
 }
 
 /*etiqueta nombre*/
